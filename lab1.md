@@ -1,8 +1,7 @@
 ## Installing VScode
 * In order to install VScode you must first go to [https://code.visualstudio.com/](https://code.visualstudio.com/)
-* Then click on the big blue button to download the proper version or the small arrow next to it to download a specific version
-\
-![img](ss1.png)\
+* Then click on the big blue button to download the proper version or the small arrow next to it to download a specific version 
+![img](ss1.png)
 
 ## Remotely Connecting
 * In order to remotely connect to a school server, you must first grab your cse15l username at [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php)
@@ -11,5 +10,6 @@
 * Now you will be prompted for your password which you should type in 
 * Your password will not show when your are in the progress of typing, but that is perfecy normal
 * When you have finished logging into the server, you should reach a screen that looks a little like this:
+![img](ss2.png)
 
 ## Trying Some Commands
