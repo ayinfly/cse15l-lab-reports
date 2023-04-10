@@ -18,3 +18,9 @@
 ![img](ss2.png)
 
 ## Trying Some Commands
+* Now that you are logged into the server, try exploring using commands
+* Some common ones you could try are cd, ls, pwd, mkdir, and cp
+* Try running these commands on both your virtual server and your personal computer to observe the differences in files
+* After this, you are done
+* Your commands should look something like this, but with file differences depending on where you are logged in:
+* ![img](ss3.png)
