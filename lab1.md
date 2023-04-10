@@ -6,6 +6,7 @@
 ## Installing VScode
 * To install VScode you must first go to [https://code.visualstudio.com/](https://code.visualstudio.com/)
 * Click on the big blue button to download the proper version or the small arrow next to it to download a specific version 
+
 ![img](ss1.png)
 
 ## Remotely Connecting
@@ -15,12 +16,14 @@
 * Now you will be prompted for your password which you should type in 
 * Your password will not show when your are in the progress of typing, but that is perfectly normal
 * When you have finished logging into the server, you should reach a screen that looks a little like this:
+
 ![img](ss2.png)
 
 ## Trying Some Commands
 * Now that you are logged into the server, try exploring using commands
-* Some common ones you could try are cd, ls, pwd, mkdir, and cp
+* Some common ones you could try are cd, ls, pwd, mkdir, and cp interwoven with file directories and names
 * Try running these commands on both your virtual server and your personal computer to observe the differences in files
 * After this, you are done
 * Your commands should look something like this, but with file differences depending on where you are logged in:
-* ![img](ss3.png)
+
+![img](ss3.png)
