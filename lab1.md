@@ -13,7 +13,7 @@
 * After that open visual code and open the terminal (which can be opened with ctrl + ~ on mac)
 * You should enter ssh cs15lsp23##@ieng6.ucsd.edu where the hashtags are replaced by your unique 2 letter code
 * Now you will be prompted for your password which you should type in 
-* Your password will not show when your are in the progress of typing, but that is perfecy normal
+* Your password will not show when your are in the progress of typing, but that is perfectly normal
 * When you have finished logging into the server, you should reach a screen that looks a little like this:
 ![img](ss2.png)
 
