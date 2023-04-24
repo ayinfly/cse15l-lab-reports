@@ -38,3 +38,6 @@ class NumberServer {
 }
 ```
 Below are two instances of me using it:
+
+![img](labrep2ss1.png)
+![img](labrep2ss2.png)
