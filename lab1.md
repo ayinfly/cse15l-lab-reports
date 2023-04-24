@@ -11,8 +11,11 @@
 
 ## Remotely Connecting
 * In order to remotely connect to a school server, you must first grab your cse15l username at [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php)
-* After that open visual code and open the terminal from within VScode (ctrl + ~ on mac)
-* You should enter ssh cs15lsp23##@ieng6.ucsd.edu where the hashtags are replaced by your unique 2 letter code to login to the remote server
+* After that open visual code and open the terminal from within VScode (ctrl + ~ on mac) and enter the following
+```
+$ ssh cs15lsp23##@ieng6.ucsd.edu
+```
+* The hashtags are replaced by your unique 2 letter code to login to the remote server
 * Now you will be prompted for your password which you should type in 
 * Your password will not show when your are in the progress of typing, but that is perfectly normal
 * When you have finished logging into the server, you should reach a screen that looks a little like this:
