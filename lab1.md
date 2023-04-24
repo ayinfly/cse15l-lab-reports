@@ -35,7 +35,7 @@ $ cat <file>
 ```
 $ mkdir <folder>
 ```
-* This makes a new folder at your current location if one does not already exist
+* This makes a new folder at your current location if one does not already exist with that name
 * Try running these commands on both your virtual server and your personal computer to observe the differences in files
 * After this, you are done
 * Your commands should look something like this, but with file differences depending on where you are logged in:
