@@ -42,5 +42,7 @@ Below are two instances of me using it:
 ![img](labrep2ss1.png)
 ![img](labrep2ss2.png)
 
-For the two screenshots, handleRequest is called which takes a URI as input. The values taken are the path which is 
+For the two screenshots, handleRequest is called which takes a URI as input. The variables are the path which is 
 /add-message for both, the query, which is split by an '=' sign, and the parameter which is either 13 or dinosaur.
+There is a value for the str field which starts with a blank string, but gets updated with the parameter of each use
+of the handleRequest method.
