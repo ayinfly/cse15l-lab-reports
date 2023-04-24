@@ -26,6 +26,16 @@ $ ssh cs15lsp23##@ieng6.ucsd.edu
 * Now that you are logged into the server, try exploring using commands
 * Some common ones you could try are cd, ls, pwd, mkdir, and cp interwoven with file directories and names
 * These stand for change directory, list files, print working directory, make directory, and copy respectively 
+* One command I tried is the following
+```
+$ cat <file>
+```
+* This prints out the contents of <file> into the terminal
+* Another command I had tried is
+```
+$ mkdir <folder>
+```
+* This makes a new folder at your current location if one does not already exist
 * Try running these commands on both your virtual server and your personal computer to observe the differences in files
 * After this, you are done
 * Your commands should look something like this, but with file differences depending on where you are logged in:
