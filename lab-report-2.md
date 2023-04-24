@@ -48,3 +48,19 @@ There is a value for the str field which starts with a blank string, but gets up
 of the handleRequest method.
 
 ## Part 2
+A failure inducing input:
+```
+@Test
+public void testDupeAverage() {
+    double [] input1 = {4, 4, 4, 4, 4};
+    assertEquals(4, ArrayExamples.averageWithoutLowest(input1), 0.001);
+}
+```
+A successful input:
+```
+@Test
+public void testOrderedAverage() {
+    double [] input1 = {0, 1, 2, 3, 4, 5};
+    assertEquals(3, ArrayExamples.averageWithoutLowest(input1), 0.001);
+}
+```
